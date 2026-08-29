@@ -1,0 +1,1 @@
+Built a simple calculator using an Arduino and LCD display, took input, performed calculations, and printed results to the screen. Learned how to interface with LCD modules and structure logic for user input and output.
