@@ -8,7 +8,7 @@ int Outpin=4;
 unsigned int PulseWidth;
 int rcolor;
 int gcolor;
-int bcolor
+int bcolor;
 
 void setup() {
   // put y our setup code here, to run once:
