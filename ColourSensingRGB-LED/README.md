@@ -1,0 +1,1 @@
+Built a color sensor that reads the RGB composition of an object's reflected light using pulse-width sensing, then determines the dominant color and drives an RGB LED to match it in real time. Involved digital signal timing, conditional color logic, and PWM output control.
