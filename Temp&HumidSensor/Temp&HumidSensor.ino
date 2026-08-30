@@ -3,8 +3,8 @@
 
 
 #define Type DHT11
-int DHT11=2;
-DHT sens(DHT11,Type);
+int DHT11Pin=2;
+DHT sens(DHT11Pin,Type);
 float humidity;
 float Celcius;
 float F;
@@ -23,7 +23,7 @@ F=sens.readTemperature(true);
 Serial.print(humidity);
 Serial.print(", ");
 Serial.print(Celcius);
-Serial.print(" Celcius Degrees")
+Serial.print(" Celcius Degrees");
 Serial.print(", ");
 Serial.print(F);
 Serial.println(" F Degrees");
